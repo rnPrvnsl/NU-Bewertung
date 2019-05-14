@@ -21,7 +21,7 @@ namespace NU_Bewertung
             double[,] NormAryEM;
             double[] AryKriterienGewichtung;
 
-            //
+            //Test
           
             //Matrizeninitalisierung
 
